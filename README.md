@@ -1,10 +1,10 @@
 ### 👋 Hi there, my name is Linus Ghanadan!
 
+I am a purpose-driven worker interested in a career that leverages data to inform projects implementing sustainable solutions and advancing environmental stewardship.
+
 I graduated in June 2024 with a M.S. in Environmental Data Science from the Bren School of Environmental Science & Management at UC Santa Barbara. As a Master’s capstone project, I worked with the outdoor apparel company Darn Tough Vermont to model and visualize their data on greenhouse gas emissions.
 
-In May 2023, I received a B.S. in Environmental Economics from the University of Maryland. As an undergraduate student, I also gained research and internship experience at the U.S. Department of Transportation, World Resources Institute, and The Nature Conservancy.
-
-Moving forward, my career goal is to implement data-driven solutions that advance sustainability within the public and private sectors.
+In May 2023, I received a B.S. in Environmental Economics from the University of Maryland. As an undergraduate student, I also gained research and internship experience at the U.S. Department of Transportation, World Resources Institute, and The Nature Conservancy. In these roles, I worked on projects relating to the energy transition and conservation.
 
 <!--
 **linusghanadan/linusghanadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
