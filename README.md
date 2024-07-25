@@ -4,7 +4,7 @@ I am a purpose-driven worker interested in a career that leverages data to infor
 
 I graduated in June 2024 with a M.S. in **Environmental Data Science** from the Bren School of Environmental Science & Management at UC Santa Barbara. As a Master’s capstone project, I worked with the outdoor apparel company Darn Tough Vermont to model and visualize their data on greenhouse gas emissions.
 
-In May 2023, I received a B.S. in **Environmental Economics** from the University of Maryland. As an undergraduate student, I also gained research and internship experience at the U.S. Department of Transportation, World Resources Institute, and The Nature Conservancy. In these roles, I worked on projects relating to the energy transition and conservation.
+In May 2023, I received a B.S. in **Environmental Economics** from the University of Maryland. As an undergraduate student, I also gained research and internship experience at the U.S. Department of Transportation, World Resources Institute, and The Nature Conservancy. In these roles, I worked on several projects related to the energy transition, including projects on offshore wind development and transport electrification.
 
 In particular, I am interested in the **clean energy sector**. My industry knowledge comes from personal research and classes that I took at the University of Maryland on Energy & Environmental Economics and Energy & Environmental Policy. In these classes, I learned about topics such as the structure of electricity markets (wholesale, retail, and capacity), modeling energy supply and demand, calculating LCOE and LACE, and the exciting implications of technological innovation (in particular, Battery Energy Storage Systems and Smart Meters).
 
