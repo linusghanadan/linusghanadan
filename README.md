@@ -6,7 +6,7 @@ I graduated in June 2024 with a M.S. in **Environmental Data Science** from the 
 
 In May 2023, I received a B.S. in **Environmental Economics** from the University of Maryland. As an undergraduate student, I also gained research and internship experience at the U.S. Department of Transportation, World Resources Institute, and The Nature Conservancy. In these roles, I worked on several projects related to the energy transition, including projects on offshore wind development and transport electrification.
 
-In particular, I am interested in the **clean energy sector**. My industry knowledge comes from personal research and classes that I took at the University of Maryland on Energy & Environmental Economics and Energy & Environmental Policy. In these classes, I learned about topics such as the structure of electricity markets (wholesale, retail, and capacity), modeling energy supply and demand, calculating LCOE and LACE, and the exciting implications of technological innovation (in particular, Battery Energy Storage Systems and Smart Meters).
+In particular, I am interested in the **clean energy sector**. My industry knowledge comes from personal research and classes that I took at the University of Maryland on Energy & Environmental Economics and Energy & Environmental Policy. In these classes, I learned about topics such as the structure of electricity markets (wholesale, retail, and capacity), modeling energy supply and demand, calculating LCOE and LACE, and the exciting implications of technological innovation (e.g., Battery Energy Storage Systems, Smart Meters, etc.).
 
 <!--
 **linusghanadan/linusghanadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
