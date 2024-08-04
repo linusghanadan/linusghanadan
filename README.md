@@ -1,6 +1,6 @@
 ### 👋 Hi there, my name is Linus Ghanadan!
 
-I am a purpose-driven worker interested in a career leveraging data to inform projects that are aligned with my environmentalist values. In my spare time, I like to play soccer⚽ and go on hikes🥾.
+I am a purpose-driven worker interested in a career that leverages data to inform projects aligned with my environmentalist values. In my spare time, I like to play soccer⚽ and go on hikes🥾.
 
 I graduated in June 2024 with a M.S. in **Environmental Data Science** from the Bren School of Environmental Science & Management at UC Santa Barbara. As a Master’s capstone project, I worked with the outdoor apparel company Darn Tough Vermont to model and visualize their data on greenhouse gas emissions.
 
