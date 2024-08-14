@@ -1,4 +1,8 @@
-# Data Science Portfolio
+<h1 align="center"> Hi! I'm Linus Ghanadan 👋</h1>
+
+In June 2024, I graduated with a Master's degree in Environmental Data Science from the Bren School of Environmental Science & Management at UC Santa Barbara. If you want to see a collection of my coding projects, you have come to the right place!
+
+<h1 align="center"> Data Science Portfolio</h1>
 
 ## Data Visualization
 
