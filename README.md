@@ -10,7 +10,7 @@
 
 **Time Series Analysis of Nutrient Concentration in the Chesapeake Bay** | [Link to GitHub Repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution) | [Link to Blog](https://linusghanadan.github.io/blog/2023-12-12-post/)
 
-Constructed two Seasonal-Trend using LOESS (STL) decomposition models to conduct 2010-2019 time series analysis of nutrient concentrations in the Chesapeake Bay. Used 43,809 nitrogen samples and 43,590 phosphorus samples from 143 monitoring stations positioned throughout the Bay’s tidal regions.
+Constructed two Seasonal-Trend using LOESS (STL) decomposition models to conduct 2010-2019 time series analysis of nutrient concentrations in the Chesapeake Bay. Used 43,809 nitrogen samples and 43,590 phosphorus samples from 143 monitoring stations positioned throughout the Bay’s tidal regions. Selecting seasonality for the model based on autocorrelation, visualized monthly mean concentration, seasonally adjusted monthly mean, STL seasonality component, and STL trend component for each of the two pollutants. Ran regressions of model parameters to compare the proportion of variation that was attributable to seasonality for nitrogen and phosphorus, as well as to compare 95% confidence intervals for change in each pollutant's trend component over the 10-year period.
 
 ## Master's Capstone Project
 
