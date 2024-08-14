@@ -1,12 +1,12 @@
 # Data Science Portfolio
 
-## Data Visualizations from Master's Program Projects
+## Data Visualization
 
-**Best of my Data Visualizations made with R** | [Link to Blog](https://linusghanadan.github.io/blog/2024-7-24-post/)
+**Best of my Data Visualizations with R** | [Link to Blog](https://linusghanadan.github.io/blog/2024-7-24-post/)
 
-**Best of my Data Visualizations made with Python** | [Link to Blog](https://linusghanadan.github.io/blog/2024-7-23-post/)
+**Best of my Data Visualizations with Python** | [Link to Blog](https://linusghanadan.github.io/blog/2024-7-23-post/)
 
-## Master's Statistics Course Final Project
+## Final Project for Statistics Class
 
 **Time Series Analysis of Nutrient Concentration in the Chesapeake Bay** | [Link to GitHub Repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution) | [Link to Blog](https://linusghanadan.github.io/blog/2023-12-12-post/)
 
@@ -18,25 +18,25 @@ Constructed two Seasonal-Trend using LOESS (STL) decomposition models to conduct
 
 Worked with the Head of Sustainability at outdoor apparel company Darn Tough Vermont and three classmates to streamline the company's spreadsheet method for calculating and analyzing data on yearly Scope 1, 2, and 3 GHG emissions. Built interactive web-application dashboard that allows the company to visualize emissions and conduct scenario analysis based on adjustable input variables (e.g., can evaluate emissions under scenarios with differing fiber procurements).
 
-## Master's Geospatial Analysis Course Project
+## Project for Geospatial Analysis Class
 
 **Spatial Analysis of 2021 Houston Power Crisis** | [Link to GitHub Repository](https://github.com/linusghanadan/houston_power_crisis/tree/main) | [Link to Blog](https://linusghanadan.github.io/blog/2024-1-20-post/)
 
 Used data from NASA’s VIIRS instrument to conduct a spatial analysis of the 2021 Houston Power Crisis. Determined and visualized census tracts in the Houston metropolitan area where residential blackouts occurred and analyzed how this related to median income of census tracts.
 
-## Master's Policy Evaluation Course Project
+## Project for Policy Evaluation Class
 
 **Impact Analysis of a 1998 Cash-Transfer Program in Rural Mexico** | [Link to GitHub Repository](https://github.com/linusghanadan/cash-transfer-policy) | [Link to Blog](https://linusghanadan.github.io/blog/2024-3-6-post/)
 
 Compared pre-treatment characteristics in the treatment and control groups of the 1998 Prospera cash-transfer program. Estimated the Average Treatment Effect (ATE) of the program on a household’s value of owned animals with the First-Difference, Fixed-Effects, and Difference-in-Difference estimators.
 
-## Master's Modeling Environmental Systems Course Project
+## Project for Modeling Environmental Systems Class
 
 **Dynamic Simulation of Forest Growth** | [Link to GitHub Repository](https://github.com/linusghanadan/dynamic-simulation-forest-growth) | [Link to Blog](https://linusghanadan.github.io/blog/2024-6-10-post/)
 
 Generated stochastic parameter sets for forest size model inputs (exponential growth rate before canopy closure, linear growth rate after canopy closure, carrying capacity, and canopy closure threshold) and used an ordinary differential equations solver to run 300-year continuous dynamic simulations of forests. Conducted global sensitivity analysis (ran 2,000 simulations and computed Sobol indices of input parameters) to look at impact of varying parameter values on maximum forest size.
 
-## Master's Machine Learning Course Projects
+## Projects for Machine Learning Class
 
 **Cluster Analysis of Bio-Contaminating Algae in the Port Jackson Bay** | [Link to GitHub Repository](https://github.com/linusghanadan/ml-clustering-lab/tree/main) | [Link to Blog](https://linusghanadan.github.io/blog/2024-4-1-post/)
 
