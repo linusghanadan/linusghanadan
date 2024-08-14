@@ -2,7 +2,7 @@
 
 I am a purpose-driven worker interested in leveraging data to inform projects aligned with my environmentalist values. In my spare time, I like to play soccer⚽ and go on hikes🥾.
 
-I graduated in June 2024 with a M.S. in Environmental Data Science from the Bren School of Environmental Science & Management at UC Santa Barbara. As a Master’s capstone project, I worked with the outdoor apparel company Darn Tough Vermont to streamline their workflow for carbon accounting and sustainability analysis, creating an interactive web-application dashboard for the company to visualize historical emissions and run scenarios based on adjustable input variables.
+I recently graduated in June 2024 with a M.S. in Environmental Data Science from the Bren School of Environmental Science & Management at UC Santa Barbara. As a Master’s capstone project, I worked with the outdoor apparel company Darn Tough Vermont to streamline their workflow for carbon accounting and sustainability analysis, creating an interactive web-application dashboard for the company to visualize historical emissions and run scenarios based on adjustable input variables.
 
 In May 2023, I received a B.S. in Environmental Economics from the University of Maryland, and while a student, I also gained research and internship experience at the World Resources Institute, U.S. Department of Transportation, and The Nature Conservancy. In these roles, I worked on several energy transition projects, including projects on offshore wind development and transport electrification.
 
