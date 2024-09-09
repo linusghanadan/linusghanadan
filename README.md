@@ -4,11 +4,11 @@ In June 2024, I graduated with a Master's in Environmental Data Science from the
 
 <h1 align="center"> Data Science Portfolio</h1>
 
-## Data Visualization
+## Data Visualization Portfolios
 
-**Best of my Data Visualizations with R** | [Link to Blog](https://linusghanadan.github.io/blog/2024-7-24-post/)
+R | [Portfolio](https://linusghanadan.github.io/blog/2024-7-24-post/)
 
-**Best of my Data Visualizations with Python** | [Link to Blog](https://linusghanadan.github.io/blog/2024-7-23-post/)
+Python | [Portfolio](https://linusghanadan.github.io/blog/2024-7-23-post/)
 
 ## Final Project for Statistics Class
 
