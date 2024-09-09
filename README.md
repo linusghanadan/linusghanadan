@@ -12,23 +12,33 @@ In June 2024, I graduated with a Master's in Environmental Data Science from the
 
 ## Final Project for Statistics Class
 
-**Time Series Analysis of Nutrient Concentration in the Chesapeake Bay** | [Link to Repository (R Code)](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution) | [Link to Blog](https://linusghanadan.github.io/blog/2023-12-12-post/)
+**Time Series Analysis of Nutrient Concentration in the Chesapeake Bay**
+
+R | [Repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution) | [Blog](https://linusghanadan.github.io/blog/2023-12-12-post/)
+
+Python | Repository | Blog
 
 Proposed statistical question on how nutrient concentrations have changed since Clean Water Act protection measures (implemented in 2010) and found appropriate data for answering the question (used over 43,000 samples from the Bay’s tidal regions). Constructed two Seasonal-Trend using LOESS (STL) decomposition models to conduct time series analysis of nitrogen and phosphorus concentrations (selected length of seasons based on autocorrelation). For each pollutant, visualized model parameters comparatively. In addition, ran regressions to determine the proportion of variation attributable to seasonality and the 95% confidence interval for change in trend component over the 10-year period.
 
 ## Master's Capstone Project
 
-**Creating and Implementing an Analytical Workflow for an Outdoor Apparel Company’s Carbon Accounting and Sustainability Analysis** | [Link to GitHub Page](https://github.com/carbonSOCKprint) | [Link to Blog](https://linusghanadan.github.io/blog/2024-6-20-post/)
+**Creating and Implementing an Analytical Workflow for an Outdoor Apparel Company’s Carbon Accounting and Sustainability Analysis**
+
+R, HTML, CSS | [GitHub Page](https://github.com/carbonSOCKprint) | [Blog](https://linusghanadan.github.io/blog/2024-6-20-post/)
 
 Worked with the Head of Sustainability at outdoor apparel company Darn Tough Vermont and three classmates to streamline the company's spreadsheet method for calculating and analyzing data on yearly Scope 1, 2, and 3 GHG emissions. Built interactive web-application dashboard that allows the company to visualize emissions and conduct scenario analysis based on adjustable input variables (e.g., can evaluate emissions under scenarios with differing fiber procurements).
 
 ## Projects for Geospatial Analysis Class
 
-**Spatial Analysis of 2021 Houston Power Crisis** | [Link to Repository (R Code)](https://github.com/linusghanadan/houston_power_crisis/tree/main) | [Link to Blog](https://linusghanadan.github.io/blog/2024-1-20-post/)
+**Spatial Analysis of 2021 Houston Power Crisis**
+
+R, SQL | [Repository](https://github.com/linusghanadan/houston_power_crisis/tree/main) | [Blog](https://linusghanadan.github.io/blog/2024-1-20-post/)
 
 Used data from NASA’s VIIRS instrument, OpenStreetMap, and the U.S. Census Bureau to conduct a spatial analysis of the 2021 Houston Power Crisis. To determine census tracts where residential blackouts occurred, created a blackout mask excluding non-residential areas (excluded highways and commercial properties based on data from OpenStreetMap) and performed spatial joins with census tract data. Created visualization showing census tracts where residential blackouts occurred. As a second component to the analysis, joined census tract data with data on median income to create heatmap where fill color was based on median income and outline color was based on whether the census tract had residential blackouts. Lastly, created double-sided histogram demonstrating the lack of a clear relationship, except for census tracts at the highest end of the income distribution.
 
-**Spatial Analysis of Biodiversity Changes in Phoenix, AZ** | [Link to Repository (Python Code)](https://github.com/linusghanadan/phoenix_biodiversity) | [Link to Blog](https://linusghanadan.github.io/blog/2023-12-13-post/phoenix_biodiversity.html)
+**Spatial Analysis of Biodiversity Changes in Phoenix, AZ**
+
+Python | [Repository](https://github.com/linusghanadan/phoenix_biodiversity) | [Blog](https://linusghanadan.github.io/blog/2023-12-13-post/phoenix_biodiversity.html)
 
 Fetched items from Microsoft Planetary Computer (MPC) catalog based on search criteria, retrieving grid-cell data on 2017 and 2020 Biodiversity Intactness Index (BII) scores, which rate an area of land’s biodiversity from 0 to 1. Clipped raster of BII scores with polygon shapefile of Arizona subdivisions. For Phoenix’s subdivision, calculated percent of area where BII decreased from above 0.75 in 2017 to being below this threshold score in 2020. Created heatmap visualizing 2020 BII scores across Phoenix’s subdivision, highlighting areas that decreased below the 0.75 BII threshold.
 
