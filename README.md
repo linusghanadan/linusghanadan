@@ -4,7 +4,7 @@ In June 2024, I graduated with a Master's in Environmental Data Science from the
 
 <h1 align="center"> Data Science Portfolio</h1>
 
-## Data Visualization Portfolio Blogs
+## Data Visualization
 
 Python | [Blog](https://linusghanadan.github.io/blog/2024-7-23-post/)
 
