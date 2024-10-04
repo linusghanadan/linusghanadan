@@ -10,7 +10,7 @@ Python | [Blog](https://linusghanadan.github.io/blog/2024-7-23-post/)
 
 R | [Blog](https://linusghanadan.github.io/blog/2024-7-24-post/)
 
-## Final Project for Statistics Class
+## Statistics Final Project
 
 **Time Series Analysis of Nutrient Concentration in the Chesapeake Bay**
 
@@ -18,7 +18,15 @@ Python | [Repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-p
 
 Proposed statistical question on how nutrient concentrations have changed since Clean Water Act protection measures (implemented in 2010) and found appropriate data for answering the question (used over 43,000 samples from the Bay’s tidal regions). Constructed two Seasonal-Trend using LOESS (STL) decomposition models to conduct time series analysis of nitrogen and phosphorus concentrations (selected length of seasons based on autocorrelation). For each pollutant, visualized model parameters comparatively. In addition, ran regressions to determine the proportion of variation attributable to seasonality and the 95% confidence interval for change in trend component over the 10-year period.
 
-## Project for Modeling Class
+## Master's Capstone Project
+
+**Improving a Workflow for Carbon Accounting and Sustainability Analysis**
+
+R | [GitHub Page](https://github.com/carbonSOCKprint) | [Blog](https://linusghanadan.github.io/blog/2024-6-20-post/)
+
+Worked with three classmates to streamline GHG data analysis workflow for outdoor apparel company. Created data entry template (using Microsoft Excel) and interactive dashboard (using R and GitHub) for the company to calculate their emissions, visualize historical data, and use interactive components to analyze future scenarios (e.g., could look at impact of using recycled wool). Individually took the lead with the scenario analysis components of interactive dashboard, and this involved coming up with ideas for how to go about analyzing scenarios, presenting ideas to the company’s Global Director for Environmental and Social Responsibility, and using the Global Director’s feedback to write code for the interactive dashboard. Used improved workflow to analyze the company’s GHG data from 2019 and 2020 and recommend solutions for meeting the company’s 2030 emissions reduction target.
+
+## Environmental Modeling Project
 
 **Dynamic Simulation of Forest Growth**
 
@@ -26,17 +34,9 @@ R | [Repository](https://github.com/linusghanadan/dynamic-simulation-forest-grow
 
 Used common scientific model that estimates forest size (measured in kilograms of carbon) and generated stochastic parameter sets for model inputs (exponential growth rate before canopy closure, linear growth rate after canopy closure, carrying capacity, and canopy closure threshold). Used an ordinary differential equations solver to run 300-year continuous dynamic simulations of forests. Conducted global sensitivity analysis (ran 2,000 simulations and computed Sobol indices of input parameters) to look at impact of varying parameter values on maximum forest size.
 
-## Master's Capstone Project
+## Geospatial Analysis Projects
 
-**Creating and Implementing an Analytical Workflow for an Outdoor Apparel Company’s Carbon Accounting and Sustainability Analysis**
-
-R | [GitHub Page](https://github.com/carbonSOCKprint) | [Blog](https://linusghanadan.github.io/blog/2024-6-20-post/)
-
-Worked with the Head of Sustainability at outdoor apparel company Darn Tough Vermont and three classmates to streamline the company's spreadsheet method for calculating and analyzing data on yearly Scope 1, 2, and 3 GHG emissions. Built interactive web-application dashboard that allows the company to visualize emissions and conduct scenario analysis based on adjustable input variables (e.g., can evaluate emissions under scenarios with differing fiber procurements).
-
-## Projects for Geospatial Analysis Class
-
-**Spatial Analysis of Biodiversity Changes in Phoenix, AZ**
+**Understanding Biodiversity Changes in Phoenix, AZ**
 
 Python | [Repository](https://github.com/linusghanadan/phoenix_biodiversity) | [Blog](https://linusghanadan.github.io/blog/2023-12-13-post/phoenix_biodiversity.html)
 
@@ -48,7 +48,7 @@ R | [Repository](https://github.com/linusghanadan/houston_power_crisis/tree/main
 
 Used data from NASA’s VIIRS instrument, OpenStreetMap, and the U.S. Census Bureau to conduct a spatial analysis of the 2021 Houston Power Crisis. To determine census tracts where residential blackouts occurred, created a blackout mask excluding non-residential areas (excluded highways and commercial properties based on data from OpenStreetMap) and performed spatial joins with census tract data. Created visualization showing census tracts where residential blackouts occurred. As a second component to the analysis, joined census tract data with data on median income to create heatmap where fill color was based on median income and outline color was based on whether the census tract had residential blackouts. Lastly, created double-sided histogram demonstrating the lack of a clear relationship, except for census tracts at the highest end of the income distribution.
 
-## Projects for Machine Learning Class
+## Machine Learning Projects
 
 **Regression Models to predict Dissolved Inorganic Carbon in California Coastal Ecosystems**
 
