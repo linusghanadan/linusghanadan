@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Linus Ghanadan 👋</h1>
 
-In June 2024, I graduated with a Master's in Environmental Data Science from the Bren School of Environmental Science & Management at UC Santa Barbara. I also hold a B.S. in Environmental Economics from the University of Maryland, which I received in May 2023.
+I recently received a Bachelor’s degree in 2023 (B.S. in Environmental Economics from the University of Maryland) and a Master’s degree in 2024 (M.S. in Environmental Data Science from the Bren School at UC Santa Barbara). Moving forward, I am very interested in using analytics to help with Earth’s carbon and biodiversity crises.
 
 <h1 align="center"> Data Science Portfolio</h1>
 
@@ -36,13 +36,13 @@ Used common scientific model that estimates forest size (measured in kilograms o
 
 ## Geospatial Analysis Projects
 
-**Understanding Biodiversity Changes in Phoenix, AZ**
+**Biodiversity Changes in Phoenix, AZ**
 
 Python | [Repository](https://github.com/linusghanadan/phoenix_biodiversity) | [Blog](https://linusghanadan.github.io/blog/2023-12-13-post/phoenix_biodiversity.html)
 
 Fetched items from Microsoft Planetary Computer (MPC) catalog based on search criteria, retrieving grid-cell data on 2017 and 2020 Biodiversity Intactness Index (BII) scores, which rate an area of land’s biodiversity from 0 to 1. Clipped raster of BII scores with polygon shapefile of Arizona subdivisions. For Phoenix’s subdivision, calculated percent of area where BII decreased from above 0.75 in 2017 to being below this threshold score in 2020. Created heatmap visualizing 2020 BII scores across Phoenix’s subdivision, highlighting areas that decreased below the 0.75 BII threshold.
 
-**Spatial Analysis of 2021 Houston Power Crisis**
+**Using NASA Data to Find Residential Blackouts during 2021 Houston Power Crisis**
 
 R | [Repository](https://github.com/linusghanadan/houston_power_crisis/tree/main) | [Blog](https://linusghanadan.github.io/blog/2024-1-20-post/)
 
