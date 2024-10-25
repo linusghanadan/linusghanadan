@@ -4,7 +4,7 @@ I recently received a Bachelor’s degree in 2023 (B.S. in Environmental Economi
 
 <h1 align="center"> Data Science Portfolio</h1>
 
-## Data Visualization
+## Data Visualization Highlights
 
 Python | [Blog](https://linusghanadan.github.io/blog/2024-7-23-post/)
 
