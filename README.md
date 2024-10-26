@@ -16,11 +16,11 @@ R | [Blog](https://linusghanadan.github.io/blog/2024-7-24-post/)
 
 Python | [Repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution-python) | [Blog](https://linusghanadan.github.io/blog/2024-8-20-post/chesapeake-bay-python.html)
 
-Proposed statistical question on how nutrient concentrations have changed since Clean Water Act protection measures (implemented in 2010) and found appropriate data for answering the question (used over 43,000 samples from the Bay’s tidal regions). Constructed two Seasonal-Trend using LOESS (STL) decomposition models to conduct time series analysis of nitrogen and phosphorus concentrations (selected length of seasons based on autocorrelation). For each pollutant, visualized model parameters comparatively. In addition, ran regressions to determine the proportion of variation attributable to seasonality and the 95% confidence interval for change in trend component over the 10-year period.
+Proposed statistical question on possible underyling linear trend in Chespeake Bay nutrient concentrations since 2010 (when new Clean Water Act regulation was implemented for the Bay) and found appropriate data for answering the question (used over 43,000 samples from the Bay’s tidal regions). Constructed two Seasonal-Trend using LOESS (STL) decomposition models to conduct time series analysis of nitrogen and phosphorus concentrations (selected length of seasons based on autocorrelation). For each pollutant, visualized model parameters comparatively. In addition, ran regressions to determine the proportion of variation attributable to seasonality and the 95% confidence interval for 10-year linear trend component.
 
 ## Master's Capstone Project
 
-**Improving a Workflow for Carbon Accounting and Sustainability Analysis**
+**Improving GHG Data Analysis Workflow for an Outdoor Apparel Company**
 
 R | [GitHub Page](https://github.com/carbonSOCKprint) | [Blog](https://linusghanadan.github.io/blog/2024-6-20-post/)
 
@@ -36,13 +36,13 @@ Used common scientific model that estimates forest size (measured in kilograms o
 
 ## Geospatial Analysis Projects
 
-**Biodiversity Changes in Phoenix, AZ**
+**Tracking Biodiversity Changes in Phoenix**
 
 Python | [Repository](https://github.com/linusghanadan/phoenix_biodiversity) | [Blog](https://linusghanadan.github.io/blog/2023-12-13-post/phoenix_biodiversity.html)
 
 Fetched items from Microsoft Planetary Computer (MPC) catalog based on search criteria, retrieving grid-cell data on 2017 and 2020 Biodiversity Intactness Index (BII) scores, which rate an area of land’s biodiversity from 0 to 1. Clipped raster of BII scores with polygon shapefile of Arizona subdivisions. For Phoenix’s subdivision, calculated percent of area where BII decreased from above 0.75 in 2017 to being below this threshold score in 2020. Created heatmap visualizing 2020 BII scores across Phoenix’s subdivision, highlighting areas that decreased below the 0.75 BII threshold.
 
-**Using NASA Data to Find Residential Blackouts during 2021 Houston Power Crisis**
+**Using NASA Data to analyze Residential Blackouts during Houston Power Crisis**
 
 R | [Repository](https://github.com/linusghanadan/houston_power_crisis/tree/main) | [Blog](https://linusghanadan.github.io/blog/2024-1-20-post/)
 
