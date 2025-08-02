@@ -10,9 +10,9 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 
 **Improving GHG Data Analysis Workflow for an Outdoor Apparel Company**
 
-R | [Project Page](https://github.com/carbonSOCKprint) | [Blog](https://linusghanadan.github.io/blog/2024-6-20-post/)
+R | [Project Description](https://bren.ucsb.edu/projects/creating-reproducible-model-annual-emissions-outputs-sock-manufacturers-supply-chain) | [Project Page](https://github.com/carbonSOCKprint) | [Blog](https://linusghanadan.github.io/blog/2024-6-20-post/)
 
-Collaborating with three classmates and the Sustainability Director at an outdoor apparel company, created a web application for GHG (Scope 1, 2, and 3) data tracking and interactive scenario analysis, replacing Excel workflow with workflow combining Excel with R-Shiny web application. Managed all data products on private code repositories, and created metadata and documentation for reproducibility. Final dashboard product provides the company with the ability to visualize their emissions and conduct scenario analysis based on adjustable input variables (e.g., can evaluate emissions under scenarios with differing fiber procurement levels).
+Collaborating with three classmates and the Sustainability Director at an outdoor apparel company, created a web application for GHG (Scope 1, 2, and 3) data tracking and interactive scenario analysis, replacing Excel-only workflow with one combining Excel and R-Shiny web application. Managed all data products on private code repositories, and created metadata and documentation for reproducibility. Final dashboard product provides the company with the ability to visualize their emissions and conduct scenario analysis based on adjustable input variables (e.g., can evaluate emissions under scenarios with differing fiber procurement levels).
 
 ## Statistics Final Project
 
