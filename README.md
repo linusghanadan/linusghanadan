@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Linus Ghanadan 👋</h1>
 
-I received a Bachelor’s degree in 2023 (B.S. in Environmental Economics from the University of Maryland) and a Master’s degree in 2024 (M.S. in Environmental Data Science from the Bren School at UC Santa Barbara).
+I received a Bachelor’s degree in 2023 (B.S. in Environmental Economics from the University of Maryland) and a Master’s degree in 2024 (M.S. in Environmental Data Science from the Bren School at UC Santa Barbara), providing me the opportunity to engage in many interesting data science projects!
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if you would like to connect!
 
