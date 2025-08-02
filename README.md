@@ -2,62 +2,101 @@
 
 I received a Bachelor’s degree in 2023 (B.S. in Environmental Economics from the University of Maryland) and a Master’s degree in 2024 (M.S. in Environmental Data Science from the Bren School at UC Santa Barbara). Moving forward, I am very interested in using data science to find innovative solutions that deliver a healthy planet.
 
+The portfolio of projects listed below doesn't include my post-graduation self-guided projects, so feel free to check out my public repositories and reach out if you would like to connect!
+
 <h1 align="center"> Data Science Portfolio</h1>
-
-## Data Visualization Highlights
-
-Python | [Blog](https://linusghanadan.github.io/blog/2024-7-23-post/)
-
-R | [Blog](https://linusghanadan.github.io/blog/2024-7-24-post/)
-
-## Statistics Final Project
-
-**Time Series Analysis of Nutrient Concentration in the Chesapeake Bay**
-
-Python | [Repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution-python) | [Blog](https://linusghanadan.github.io/blog/2024-8-20-post/chesapeake-bay-python.html)
-
-Proposed statistical question on possible underlying linear trends in average nitrogen and phosphorus concentrations across the Chesapeake Bay since 2010 (when new Clean Water Act regulations were implemented for the Bay) and found appropriate data for answering the question (over 43,000 samples from the Bay’s tidal regions). Constructed two Seasonal-Trend using LOESS (STL) decomposition models to conduct time series analysis of nitrogen and phosphorus concentrations (selected length of seasons based on autocorrelation). For each pollutant, visualized model parameters comparatively and ran regressions of parameters (to determine proportion of variation attributable to seasonality and 95% confidence interval for 10-year linear trend component).
 
 ## Master's Capstone Project
 
 **Improving GHG Data Analysis Workflow for an Outdoor Apparel Company**
 
-R | [GitHub Page](https://github.com/carbonSOCKprint) | [Blog](https://linusghanadan.github.io/blog/2024-6-20-post/)
+R | [Project Page](https://github.com/carbonSOCKprint) | [Blog](https://linusghanadan.github.io/blog/2024-6-20-post/)
 
-Worked with three classmates to streamline GHG data analysis workflow for outdoor apparel company. Created data entry template (using Microsoft Excel) and interactive dashboard (using R and GitHub) for the company to calculate their emissions, visualize historical data, and use interactive components to analyze future scenarios (e.g., could look at impact of using recycled wool). Used this improved workflow to analyze the company’s GHG data from 2019 and 2020 and recommend solutions for meeting 2030 emissions reduction target. Individually took the lead with scenario analysis components of interactive dashboard, and this involved coming up with ideas for how to go about analyzing scenarios, presenting ideas to the client, and using client feedback to write code for the interactive dashboard.
+Collaborating with three classmates and the Sustainability Director at an outdoor apparel company, created a web application for GHG (Scope 1, 2, and 3) data tracking and interactive scenario analysis, replacing Excel workflow with workflow combining Excel with R-Shiny web application. Managed all data products on private code repositories, and created metadata and documentation for reproducibility. Final dashboard product provides the company with the ability to visualize their emissions and conduct scenario analysis based on adjustable input variables (e.g., can evaluate emissions under scenarios with differing fiber procurement levels).
 
-## Environmental Modeling Project
+## Statistics Final Project
 
-**Dynamic Simulation of Forest Growth**
+**Time Series Analysis of Chesapeake Bay Pollution**
 
-R | [Repository](https://github.com/linusghanadan/dynamic-simulation-forest-growth) | [Blog](https://linusghanadan.github.io/blog/2024-6-10-post/)
+Python | [Repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution-python) | [Blog](https://linusghanadan.github.io/blog/2024-8-20-post/chesapeake-bay-python.html)
 
-Used common scientific model that estimates forest size (measured in kilograms of carbon) and generated stochastic parameter sets for model inputs (exponential growth rate before canopy closure, linear growth rate after canopy closure, carrying capacity, and canopy closure threshold). Used an ordinary differential equations solver to run 300-year continuous dynamic simulations of forests. Conducted global sensitivity analysis (ran 2,000 simulations and computed Sobol indices of input parameters) to look at impact of varying parameter values on maximum forest size.
+For self-guided final project in his statistics course, Linus conducted a time series analysis of nitrogen and phosphorus concentrations in Chesapeake Bay tidal regions, studying data from over 43,000 readings taken between 2010 and 2019.
+
+Since 2010 marked the beginning of TMDL regulation applying to the Chesapeake Bay under the Clean Water Act, Linus was curious about what he could learn regarding the effectiveness of the TMDL regulation by looking at seasonal and non-seasonal trends in the data. 
+
+Attempting to answer his question, Linus built STL decomposition models, which involved tuning season length based on autocorrelation of time lags. Based on selected season length, STL models use MLR to separate variation in the data into three distinct components: Seasonality, Trend (intra-seasonal variation), and Residual/Randomness (inter-seasonal variation). Using his STL models, Linus visualized these three model components, allowing him to identify early 2014 as a localized event with a spike in nitrogen that the model attributed to the Residual/Randomness component.
+
+Moreover, from running regressions with the resulting model parameters, Linus came to the conclusion that the overall non-seasonal trend from 2010 to 2019 was slightly negative for both pollutants. He also found that phosphorus had very distinct seasonality, with seasonality explaining 87% of the variation in concentrations. For nitrogen, seasonality explained 73% of variation.
+
+## Data Visualization Final Project
+
+**Infographic on Anthropogenic Methane Emissions**
+
+R | [Repository](https://github.com/linusghanadan/methane-infographic) | [Blog](https://linusghanadan.github.io/blog/2024-3-12-post/)
+
+For self-guided final project in data visualization course, created an infographic on anthropogenic methane emissions using code that created three visualizations (treemap, scatterplot, and dodged column plot). Data came from the International Energy Agency and provided granularity for the country and sector of emissions.
+
+## Econometrics Projects
+
+**Econometric Analysis of 1998 Mexican Cash-Transfer Program**
+
+R | [Repository](https://github.com/linusghanadan/cash-transfer-policy) | [Blog](https://linusghanadan.github.io/blog/2024-3-6-post/)
+
+Compared pre-treatment characteristics in the treatment and control groups of the 1998 Prospera cash-transfer program. Estimated the Average Treatment Effect (ATE) of the program on a household’s value of owned animals with the First-Difference, Fixed-Effects, and Difference-in-Difference estimators.
+
+**Econometric Analysis of Catch Shares Program**
+
+R | [Repository](https://github.com/linusghanadan/catch-shares-policy) | [Blog](https://linusghanadan.github.io/blog/2024-3-11-post/)
+
+Compared pre-treatment ecosystem characteristics in the treatment and control groups. Compared propensity scores (prior to matching) in the treatment and control groups. Estimated Average Treatment Effect on Treated (ATT) using nearest neighbor matching estimator. Estimated ATE using Weighted Least Squares (WLS) estimator.
+
+## Machine Learning Projects
+
+**Predictive Regression Models of Dissolved Inorganic Carbon**
+
+Python | [Repository](https://github.com/linusghanadan/dic-ml-models) | [Blog](https://linusghanadan.github.io/blog/2024-4-3-post/dic-ml-models.html)
+
+Employed data from a marine ecosystem research program to build three models (single decision tree, random forest, and stochastic gradient boosted trees) that predict dissolved inorganic carbon (DIC) based on other ocean chemistry features (e.g., sulfur trioxide concentration) that were also measured during water sampling. Compared root mean squared error (RMSE) among models and analyzed feature importances in the best performing model.
+
+**Predictive Classification Models of Spotify Liked Songs**
+
+R | [Repository](https://github.com/linusghanadan/ml-spotify-lab) | [Blog](https://linusghanadan.github.io/blog/2024-3-29-post/)
+
+Built four different types of decision tree models that predict whether a given song was in my Spotify collection or in the collection my classmate Maxwell. Then, I compared performance across the four models. Specifically, I compared the performance of models built using a single decision tree, bagged decision trees, a random forest, and Stochastic Gradient Boosting (SGB).
+
+**Cluster Analysis of Bio-Contaminating Algae**
+
+R | [Repository](https://github.com/linusghanadan/ml-clustering-lab/tree/main) | [Blog](https://linusghanadan.github.io/blog/2024-4-1-post/)
+
+Implemented K-means clustering algorithm with data on metal contents in two species of co-occurring algae to plot the Total Within Sum of Square (TWSS) for different numbers of clusters and determine the optimal number of clusters that indicate distinct types of bio-contaminating algae. In addition, calculated Euclidean distance matrix to build a hierarchical clustering model and inspect the resulting dendrogram for outlier points.
 
 ## Geospatial Analysis Projects
 
-**Tracking Biodiversity Changes in Phoenix**
+**Geospatial Analysis of Biodiversity Changes**
 
 Python | [Repository](https://github.com/linusghanadan/phoenix_biodiversity) | [Blog](https://linusghanadan.github.io/blog/2023-12-13-post/phoenix_biodiversity.html)
 
-Fetched items from Microsoft Planetary Computer (MPC) catalog based on search criteria, retrieving grid-cell data on 2017 and 2020 Biodiversity Intactness Index (BII) scores, which rate an area of land’s biodiversity from 0 to 1. Clipped raster of BII scores with polygon shapefile of Arizona subdivisions. For Phoenix’s subdivision, calculated percent of area where BII decreased from above 0.75 in 2017 to being below this threshold score in 2020. Created heatmap visualizing 2020 BII scores across Phoenix’s subdivision, highlighting areas that decreased below the 0.75 BII threshold.
+Fetched items from Microsoft Planetary Computer (MPC) catalog based on search criteria, retrieving grid-cell data on 2017 and 2020 Biodiversity Intactness Index (BII) scores (0 to 1 biodiversity scores). Clipped raster of BII scores with polygon shapefile of Arizona subdivisions. For Phoenix’s subdivision, calculated percent of area where BII decreased from above 0.75 in 2017 to being below this threshold score in 2020. Created heatmap of 2020 BII scores across Phoenix’s subdivision, highlighting areas that decreased below the 0.75 BII threshold.
 
-**Using NASA Data to analyze Residential Blackouts from Houston Power Crisis**
+**Geospatial Analysis of Houston Power Crisis**
 
 R | [Repository](https://github.com/linusghanadan/houston_power_crisis/tree/main) | [Blog](https://linusghanadan.github.io/blog/2024-1-20-post/)
 
 Used data from NASA’s VIIRS instrument, OpenStreetMap, and the U.S. Census Bureau to conduct a spatial analysis of the 2021 Houston Power Crisis. To determine census tracts where residential blackouts occurred, created a blackout mask excluding non-residential areas (excluded highways and commercial properties based on data from OpenStreetMap) and performed spatial joins with census tract data. Created visualization showing census tracts where residential blackouts occurred. As a second component to the analysis, joined census tract data with data on median income to create heatmap where fill color was based on median income and outline color was based on whether the census tract had residential blackouts. Lastly, created double-sided histogram demonstrating the lack of a clear relationship, except for census tracts at the highest end of the income distribution.
 
-## Machine Learning Projects
+## Systems Modeling Projects
 
-**Regression Models to predict Dissolved Inorganic Carbon in California Coastal Ecosystems**
+**Dynamic Simulation of Forest Growth**
 
-Python | [Repository](https://github.com/linusghanadan/dic-ml-models) | [Blog](https://linusghanadan.github.io/blog/2024-4-3-post/dic-ml-models.html)
+R | [Repository](https://github.com/linusghanadan/dynamic-simulation-forest-growth) | [Blog](https://linusghanadan.github.io/blog/2024-6-10-post/)
 
-Used data from a marine ecosystem research program to build three models (single decision tree, random forest, and stochastic gradient boosted trees) that predict dissolved inorganic carbon (DIC) based on other ocean chemistry features (e.g., sulfur trioxide concentration) that were also measured during water sampling. Developed visualizations comparing root mean squared error (RMSE) among the three models and analyzing feature importances in the best performing model.
+Used common scientific model that estimates forest size (measured in kilograms of carbon) and generated stochastic parameter sets for model inputs (exponential growth rate before canopy closure, linear growth rate after canopy closure, carrying capacity, and canopy closure threshold). Used an ordinary differential equations solver to run 300-year continuous dynamic simulations of forests. Conducted global sensitivity analysis to look at the impact of varying parameter values on maximum forest size.
 
-**Cluster Analysis of Bio-Contaminating Algae in the Port Jackson Bay**
+**Global Sensitivity Analysis for an Atmospheric Conductance Model**
 
-R | [Repository](https://github.com/linusghanadan/ml-clustering-lab/tree/main) | [Blog)](https://linusghanadan.github.io/blog/2024-4-1-post/)
+R | [Repository](https://github.com/linusghanadan/atmospheric-conductance-sobol) | [Blog](https://linusghanadan.github.io/blog/2024-6-7-post/)
 
-Implemented K-means clustering algorithm with data on metal contents (Cd, Cr, Cu, Mn, and Ni) in two species of co-occurring algae at 10 sample sites around Port Jackson Bay to plot the Total Within Sum of Square (TWSS) for different numbers of clusters and determine the optimal number of clusters that indicate distinct types of bio-contaminating algae. In addition, calculated Euclidean distance matrix to build hierarchical clustering model and inspect the resulting dendrogram for outlier points.
+Investigated an atmospheric conductance model based on vegetation height and windspeed, applying a variance-based sensitivity analysis by calculating Sobol indices. Interpreted takeaways of how variance in these model parameters informs climate science.
+
+
+
