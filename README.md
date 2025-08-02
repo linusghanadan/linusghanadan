@@ -20,13 +20,7 @@ Collaborating with three classmates and the Sustainability Director at an outdoo
 
 Python | [Repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution-python) | [Blog](https://linusghanadan.github.io/blog/2024-8-20-post/chesapeake-bay-python.html)
 
-For self-guided final project in his statistics course, Linus conducted a time series analysis of nitrogen and phosphorus concentrations in Chesapeake Bay tidal regions, studying data from over 43,000 readings taken between 2010 and 2019.
-
-Since 2010 marked the beginning of TMDL regulation applying to the Chesapeake Bay under the Clean Water Act, Linus was curious about what he could learn regarding the effectiveness of the TMDL regulation by looking at seasonal and non-seasonal trends in the data. 
-
-Attempting to answer his question, Linus built STL decomposition models, which involved tuning season length based on autocorrelation of time lags. Based on selected season length, STL models use MLR to separate variation in the data into three distinct components: Seasonality, Trend (intra-seasonal variation), and Residual/Randomness (inter-seasonal variation). Using his STL models, Linus visualized these three model components, allowing him to identify early 2014 as a localized event with a spike in nitrogen that the model attributed to the Residual/Randomness component.
-
-Moreover, from running regressions with the resulting model parameters, Linus came to the conclusion that the overall non-seasonal trend from 2010 to 2019 was slightly negative for both pollutants. He also found that phosphorus had very distinct seasonality, with seasonality explaining 87% of the variation in concentrations. For nitrogen, seasonality explained 73% of variation.
+For self-guided final project in statistics course, conducted a time series analysis of nitrogen and phosphorus concentrations in Chesapeake Bay tidal regions, studying data from over 43,000 readings taken between 2010 and 2019. Attempting to answer a proposed question on the impact of TMDL regulation, built STL decomposition models, which involved tuning season length based on autocorrelation of time lags. From running regressions with the resulting model parameters, came to the conclusion that the overall non-seasonal trend from 2010 to 2019 was slightly negative for both pollutants. Also found that phosphorus had very distinct seasonality, with seasonality explaining 87% of the variation in concentrations, compared to 73% for nitrogen.
 
 ## Data Visualization Final Project
 
@@ -62,7 +56,7 @@ Employed data from a marine ecosystem research program to build three models (si
 
 R | [Repository](https://github.com/linusghanadan/ml-spotify-lab) | [Blog](https://linusghanadan.github.io/blog/2024-3-29-post/)
 
-Built four different types of decision tree models that predict whether a given song was in my Spotify collection or in the collection my classmate Maxwell. Then, I compared performance across the four models. Specifically, I compared the performance of models built using a single decision tree, bagged decision trees, a random forest, and Stochastic Gradient Boosting (SGB).
+Built four different types of decision tree models that predict whether a given song was in my Spotify collection or in the collection my classmate Maxwell. Compared performance across the four models: single decision tree, bagged decision trees, random forest, and Stochastic Gradient Boosting (SGB).
 
 **Cluster Analysis of Bio-Contaminating Algae**
 
@@ -82,7 +76,7 @@ Fetched items from Microsoft Planetary Computer (MPC) catalog based on search cr
 
 R | [Repository](https://github.com/linusghanadan/houston_power_crisis/tree/main) | [Blog](https://linusghanadan.github.io/blog/2024-1-20-post/)
 
-Used data from NASA’s VIIRS instrument, OpenStreetMap, and the U.S. Census Bureau to conduct a spatial analysis of the 2021 Houston Power Crisis. To determine census tracts where residential blackouts occurred, created a blackout mask excluding non-residential areas (excluded highways and commercial properties based on data from OpenStreetMap) and performed spatial joins with census tract data. Created visualization showing census tracts where residential blackouts occurred. As a second component to the analysis, joined census tract data with data on median income to create heatmap where fill color was based on median income and outline color was based on whether the census tract had residential blackouts. Lastly, created double-sided histogram demonstrating the lack of a clear relationship, except for census tracts at the highest end of the income distribution.
+Used data from NASA’s VIIRS instrument, OpenStreetMap, and the U.S. Census Bureau to conduct a spatial analysis of the 2021 Houston Power Crisis. To determine census tracts where residential blackouts occurred, created a blackout mask excluding non-residential areas (excluded highways and commercial properties) and performed spatial joins with census tract data. Created visualization showing census tracts where residential blackouts occurred. As a second component to the analysis, joined census tract data with data on median income to create heatmap where fill color was based on median income and outline color was based on whether the census tract had residential blackouts.
 
 ## Systems Modeling Projects
 
