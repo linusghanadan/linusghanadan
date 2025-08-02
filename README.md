@@ -2,7 +2,7 @@
 
 I received a Bachelor’s degree in 2023 (B.S. in Environmental Economics from the University of Maryland) and a Master’s degree in 2024 (M.S. in Environmental Data Science from the Bren School at UC Santa Barbara).
 
-The portfolio of projects listed below doesn't include my post-graduation self-guided projects, so feel free to check out my public repositories for my most recent work! Reach out if you would like to connect!
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if you would like to connect!
 
 <h1 align="center"> Data Science Portfolio</h1>
 
