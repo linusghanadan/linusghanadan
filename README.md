@@ -25,7 +25,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Type**: Self-Guided Final Project
 - **Language**: Python
 - **Repo**: [[link]](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution-python)
-- **Description**: Investigated trends in 43,000 automated readings of nitrogen and phosphorus concentration from 2010 to 2019 through building STL decomposition models. Tuned season length based on autocorrelation of time lags. Visualized model parameters, ran regressions, and interpreted results in a blog post.
+- **Description**: Investigated trends in 43,000 automated readings of nitrogen and phosphorus concentration from 2010 to 2019 through building STL decomposition models. Tuned season length based on autocorrelation of time lags. Visualized model parameters, ran regressions, and interpreted results.
 
 **Infographic on Methane Emissions**
 
