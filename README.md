@@ -64,5 +64,5 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Course**: Databases & Data Management
 - **Type**: Guided Project
 - **Language**: Python & SQL
-- **Repo**: [link]
-- **Description**: Queried SQLite database to fetch distinct bird species scientific names, created cursor, and stored species data. Then, iterated over species data, querying SQLite database to fetch egg volume data for each species, loading data into pandas DataFrame, and computing coefficient of variation for each species.
+- **Repo**: [link](https://github.com/linusghanadan/bird-species-analysis.git)
+- **Description**: Created SQLite database from CSVs and schema build script, queried to fetch distinct species names, created cursor, and stored species data. Iterated over species data, querying the database to fetch egg volume data for each species, loading data into pandas DataFrame, and computing coefficients of variation for each species.
