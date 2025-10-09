@@ -1,96 +1,68 @@
 <h1 align="center"> Hi! I'm Linus Ghanadan 👋</h1>
 
-I received a Bachelor’s degree in 2023 (B.S. in Environmental Economics from the University of Maryland) and a Master’s degree in 2024 (M.S. in Environmental Data Science from UC Santa Barbara), and during my studies, I worked on several fascinating data science projects!
+Education:
+- M.S., Environmental Data Science, Bren School at UC Santa Barbara (2024)
+- B.S., Environmental Economics, University of Maryland (2023)
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if you would like to connect!
 
-<h1 align="center"> Data Science Portfolio</h1>
+<h1 align="center"> Highlighted Projects</h1>
 
 ## Master's Capstone Project
 
 **Improving GHG Data Analysis Workflow for an Outdoor Apparel Company**
 
-R | [Project Page (UCSB)](https://bren.ucsb.edu/projects/creating-reproducible-model-annual-emissions-outputs-sock-manufacturers-supply-chain) | [Project Page (GitHub)](https://github.com/carbonSOCKprint) | [Blog](https://linusghanadan.github.io/blog/2024-6-20-post/)
+- **Client**: Darn Tough Vermont
+- **Language**: R
+- **Blog**: [[link]](https://linusghanadan.github.io/blog/2024-6-20-post/)
+- **Description**: Collaborated with three classmates and the company’s Sustainability Director to create a web application for GHG data tracking and scenario analysis, replacing previous Excel-only workflow. Managed all data products on private code repositories, and created metadata and documentation for reproducibility.
 
-Collaborating with three classmates and the Sustainability Director at an outdoor apparel company, created a web application for GHG (Scope 1, 2, and 3) data tracking and interactive scenario analysis, replacing Excel-only workflow with one combining Excel and R-Shiny web application. Managed all data products on private code repositories, and created metadata and documentation for reproducibility. The final dashboard product provided the company with the ability to visualize their emissions and conduct scenario analysis based on adjustable input variables (e.g., can evaluate emissions under scenarios with differing fiber procurement levels).
-
-## Statistics Final Project
+## Master's Course Projects
 
 **Time Series Analysis of Chesapeake Bay Pollution**
 
-Python | [Repository](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution-python) | [Blog](https://linusghanadan.github.io/blog/2024-8-20-post/chesapeake-bay-python.html)
+- **Course**: Statistics
+- **Type**: Self-Guided Final Project
+- **Language**: Python
+- **Repo**: [[link]](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution-python)
+- **Description**: Investigated trends in 43,000 automated readings of nitrogen and phosphorus concentration from 2010 to 2019 through building STL decomposition models. Tuned season length based on autocorrelation of time lags. Visualized model parameters, ran regressions, and interpreted results in a blog post.
 
-For self-guided final project in statistics course, conducted a time series analysis of nitrogen and phosphorus concentrations in Chesapeake Bay tidal regions, studying data from over 43,000 readings taken between 2010 and 2019. Attempting to answer a proposed question on the impact of TMDL regulation, built STL decomposition models, which involved tuning season length based on autocorrelation of time lags. From running regressions with the resulting model parameters, came to the conclusion that the overall non-seasonal trend from 2010 to 2019 was slightly negative for both pollutants. Also found that phosphorus had very distinct seasonality, with seasonality explaining 87% of the variation in concentrations, compared to 73% for nitrogen.
+**Infographic on Methane Emissions**
 
-## Data Visualization Final Project
+- **Course**: Data Visualization
+- **Type**: Self-Guided Final Project
+- **Language**: R
+- **Repo**: [[link]](https://github.com/linusghanadan/methane-infographic)
+- **Description**: Analyzed data from the International Energy Agency to create an infographic on methane emissions, including intricately designed treemap, scatterplot, and dodged column plot.
 
-**Infographic on Anthropogenic Methane Emissions**
+**Geospatial Analysis of Biodiversity Loss in Phoenix**
 
-R | [Repository](https://github.com/linusghanadan/methane-infographic) | [Blog](https://linusghanadan.github.io/blog/2024-3-12-post/)
-
-For self-guided final project in data visualization course, created an infographic on anthropogenic methane emissions using code that created three visualizations (treemap, scatterplot, and dodged column plot). Data came from the International Energy Agency and provided granularity for the country and sector of emissions.
-
-## Econometrics Projects
+- **Course**: Geospatial Analysis & Remote Sensing
+- **Type**: Guided Project
+- **Language**: Python
+- **Repo**: [[link]](https://github.com/linusghanadan/phoenix_biodiversity)
+- **Description**: Leveraged Microsoft Planetary Computer Data Catalog to retrieve grid-cell data on Biodiversity Intactness Index (BII) scores. Clipped raster of BII scores with polygon shapefile of Phoenix subdivision. Calculated percent of area where BII decreased from being above threshold in 2017 to being below threshold in 2020. Created heatmap of 2020 BII scores across Phoenix’s subdivision, highlighting areas that decreased below the threshold.
 
 **Econometric Analysis of 1998 Mexican Cash-Transfer Program**
 
-R | [Repository](https://github.com/linusghanadan/cash-transfer-policy) | [Blog](https://linusghanadan.github.io/blog/2024-3-6-post/)
-
-Compared pre-treatment characteristics in the treatment and control groups of the 1998 Prospera cash-transfer program. Estimated the Average Treatment Effect (ATE) of the program on a household’s value of owned animals with the First-Difference, Fixed-Effects, and Difference-in-Difference estimators.
-
-**Econometric Analysis of Catch Shares Program**
-
-R | [Repository](https://github.com/linusghanadan/catch-shares-policy) | [Blog](https://linusghanadan.github.io/blog/2024-3-11-post/)
-
-Compared pre-treatment ecosystem characteristics in the treatment and control groups. Compared propensity scores (prior to matching) in the treatment and control groups. Estimated Average Treatment Effect on Treated (ATT) using nearest neighbor matching estimator. Estimated ATE using Weighted Least Squares (WLS) estimator.
-
-## Machine Learning Projects
+- **Course**: Policy Evaluation
+- **Type**: Guided Project
+- **Language**: R
+- **Repo**: [[Repo]](https://github.com/linusghanadan/cash-transfer-policy)
+- **Description**: Compared pre-treatment characteristics in the treatment and control groups. Estimated the Average Treatment Effect of program enrollment on a household’s value of owned animals using FE, FD, and DiD estimators.
 
 **Predictive Regression Models of Dissolved Inorganic Carbon**
 
-Python | [Repository](https://github.com/linusghanadan/dic-ml-models) | [Blog](https://linusghanadan.github.io/blog/2024-4-3-post/dic-ml-models.html)
+- **Course**: Machine Learning
+- **Type**: Guided Project
+- **Language**: Python
+- **Repo**: [[Repo]](https://github.com/linusghanadan/dic-ml-models)
+- **Description**: Synthesized ocean chemistry features to build and tune random forest model and stochastic gradient boosted trees model. Compared root mean square errors and analyzed feature importances in the best performing model.
 
-Employed data from a marine ecosystem research program to build three models (single decision tree, random forest, and stochastic gradient boosted trees) that predict dissolved inorganic carbon (DIC) based on other ocean chemistry features (e.g., sulfur trioxide concentration) that were also measured during water sampling. Compared root mean squared error (RMSE) among models and analyzed feature importances in the best performing model.
+**Bird Species Egg Volume Variation Analysis**
 
-**Predictive Classification Models of Spotify Liked Songs**
-
-R | [Repository](https://github.com/linusghanadan/ml-spotify-lab) | [Blog](https://linusghanadan.github.io/blog/2024-3-29-post/)
-
-Built four different types of decision tree models that predict whether a given song was in my Spotify collection or in the collection my classmate Maxwell. Compared performance across the four models: single decision tree, bagged decision trees, random forest, and Stochastic Gradient Boosting (SGB).
-
-**Cluster Analysis of Bio-Contaminating Algae**
-
-R | [Repository](https://github.com/linusghanadan/ml-clustering-lab/tree/main) | [Blog](https://linusghanadan.github.io/blog/2024-4-1-post/)
-
-Implemented K-means clustering algorithm with data on metal contents in two species of co-occurring algae to plot the Total Within Sum of Square (TWSS) for different numbers of clusters and determine the optimal number of clusters that indicate distinct types of bio-contaminating algae. In addition, calculated Euclidean distance matrix to build a hierarchical clustering model and inspect the resulting dendrogram for outlier points.
-
-## Geospatial Analysis Projects
-
-**Geospatial Analysis of Biodiversity Changes**
-
-Python | [Repository](https://github.com/linusghanadan/phoenix_biodiversity) | [Blog](https://linusghanadan.github.io/blog/2023-12-13-post/phoenix_biodiversity.html)
-
-Fetched items from Microsoft Planetary Computer (MPC) catalog based on search criteria, retrieving grid-cell data on 2017 and 2020 Biodiversity Intactness Index (BII) scores (0 to 1 biodiversity scores). Clipped raster of BII scores with polygon shapefile of Arizona subdivisions. For Phoenix’s subdivision, calculated percent of area where BII decreased from above 0.75 in 2017 to being below this threshold score in 2020. Created heatmap of 2020 BII scores across Phoenix’s subdivision, highlighting areas that decreased below the 0.75 BII threshold.
-
-**Geospatial Analysis of Houston Power Crisis**
-
-R | [Repository](https://github.com/linusghanadan/houston_power_crisis/tree/main) | [Blog](https://linusghanadan.github.io/blog/2024-1-20-post/)
-
-Used data from NASA’s VIIRS instrument, OpenStreetMap, and the U.S. Census Bureau to conduct a spatial analysis of the 2021 Houston Power Crisis. To determine census tracts where residential blackouts occurred, created a blackout mask excluding non-residential areas (excluded highways and commercial properties) and performed spatial joins with census tract data. Created visualization showing census tracts where residential blackouts occurred. As a second component to the analysis, joined census tract data with data on median income to create heatmap where fill color was based on median income and outline color was based on whether the census tract had residential blackouts.
-
-## Systems Modeling Projects
-
-**Dynamic Simulation of Forest Growth**
-
-R | [Repository](https://github.com/linusghanadan/dynamic-simulation-forest-growth) | [Blog](https://linusghanadan.github.io/blog/2024-6-10-post/)
-
-Used common scientific model that estimates forest size (measured in kilograms of carbon) and generated stochastic parameter sets for model inputs (exponential growth rate before canopy closure, linear growth rate after canopy closure, carrying capacity, and canopy closure threshold). Used an ordinary differential equations solver to run 300-year continuous dynamic simulations of forests. Conducted global sensitivity analysis to look at the impact of varying parameter values on maximum forest size.
-
-**Global Sensitivity Analysis for an Atmospheric Conductance Model**
-
-R | [Repository](https://github.com/linusghanadan/atmospheric-conductance-sobol) | [Blog](https://linusghanadan.github.io/blog/2024-6-7-post/)
-
-Investigated an atmospheric conductance model based on vegetation height and windspeed, applying a variance-based sensitivity analysis by calculating Sobol indices. Interpreted takeaways of how variance in these model parameters informs climate science.
-
-
-
+- **Course**: Databases & Data Management
+- **Type**: Guided Project
+- **Language**: Python & SQL
+- **Repo**: [link]
+- **Description**: Queried SQLite database to fetch distinct bird species scientific names, created cursor, and stored species data. Then, iterated over species data, querying SQLite database to fetch egg volume data for each species, loading data into pandas DataFrame, and computing coefficient of variation for each species.
