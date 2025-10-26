@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm Linus Ghanadan 👋</h1>
 
 Education:
-- M.S., Environmental Data Science, Bren School at UC Santa Barbara (2024)
+- M.S., Environmental Data Science, UC Santa Barbara (2024)
 - B.S., Environmental Economics, University of Maryland (2023)
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if you would like to connect!
