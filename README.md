@@ -41,7 +41,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Type**: Guided Project
 - **Language**: Python & SQL
 - **Repo**: [[link]](https://github.com/linusghanadan/bird-species-analysis.git)
-- **Description**: Created SQLite database from CSVs and schema build SQL script, queried to fetch distinct species names, created cursor, and stored the species data. Iterated over species data, querying the database to fetch egg volume data for each species, loading data into pandas DataFrame, and computing coefficients of variation for each species.
+- **Description**: Created DuckDB database from CSVs and schema build script, converted to SQLite database, queried for distinct species names, created cursor, and stored species data. Iterated over data, querying the database to fetch egg volume data for each species, loading data into pandas DataFrame, and computing coefficients for each species.
 
 **Dynamic Simulation of Forest Growth**
 
