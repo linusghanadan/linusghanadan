@@ -32,7 +32,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Course**: Data Visualization
 - **Type**: Self-Guided Final Project
 - **Language**: R
-- **Repo**: [[link]](https://github.com/linusghanadan/methane-infographic)
+- **Repo**: [[link]](https://github.com/linusghanadan/methane-infographic.git)
 - **Description**: Analyzed data from the International Energy Agency (IEA) to create an infographic on methane emissions, including advanced visuals such as treemap, annotated scatterplot, and dodged column plot. Synthesized scholarly sources (IEA, Journal of Environmental Science & Technology, etc.) to write infographic content.
 
 **Bird Species Egg Volume Variation Analysis**
@@ -40,7 +40,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Course**: Databases & Data Management
 - **Type**: Guided Project
 - **Language**: Python & SQL
-- **Repo**: [link](https://github.com/linusghanadan/bird-species-analysis.git)
+- **Repo**: [[link]](https://github.com/linusghanadan/bird-species-analysis.git)
 - **Description**: Created SQLite database from CSVs and schema build SQL script, queried to fetch distinct species names, created cursor, and stored the species data. Iterated over species data, querying the database to fetch egg volume data for each species, loading data into pandas DataFrame, and computing coefficients of variation for each species.
 
 **Dynamic Simulation of Forest Growth**
@@ -48,7 +48,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Course**: Modeling Environmental Systems
 - **Type**: Guided Project
 - **Language**: R
-- **Repo**: [[Repo]]([https://github.com/linusghanadan/dic-ml-models](https://github.com/linusghanadan/dynamic-simulation-forest-growth))
+- **Repo**: [[link]](https://github.com/linusghanadan/dynamic-simulation-forest-growth)
 - **Description**: Synthesized ocean chemistry features to build and tune random forest model and stochastic gradient boosted trees model. Compared root mean square errors and analyzed feature importances in the best performing model.
 
 **Predictive Regression Models of Dissolved Inorganic Carbon**
@@ -56,7 +56,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Course**: Machine Learning
 - **Type**: Guided Project
 - **Language**: Python
-- **Repo**: [[Repo]](https://github.com/linusghanadan/dic-ml-models)
+- **Repo**: [[link]](https://github.com/linusghanadan/dic-ml-models)
 - **Description**: Synthesized ocean chemistry features to build and tune random forest model and stochastic gradient boosted trees model. Compared root mean square errors and analyzed feature importances in the best performing model.
 
 **Econometric Analysis of Cash-Transfer Program**
@@ -64,7 +64,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Course**: Policy Evaluation
 - **Type**: Guided Project
 - **Language**: R
-- **Repo**: [[Repo]](https://github.com/linusghanadan/cash-transfer-policy)
+- **Repo**: [[link]](https://github.com/linusghanadan/cash-transfer-policy)
 - **Description**: Compared pre-treatment characteristics in the treatment and control groups. Estimated the Average Treatment Effect (ATE) of program enrollment on a household’s value of owned animals using FE, FD, and DiD estimators.
 
 **Geospatial Analysis of Biodiversity Loss**
