@@ -33,7 +33,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Type**: Self-Guided Final Project
 - **Language**: R
 - **Repo**: [[link]](https://github.com/linusghanadan/methane-infographic.git)
-- **Description**: Analyzed data from the International Energy Agency (IEA) to create an infographic on methane emissions, including advanced visuals such as treemap, annotated scatterplot, and dodged column plot. Synthesized scholarly sources (IEA, Journal of Environmental Science & Technology, etc.) to write infographic content.
+- **Description**: Analyzed data from the International Energy Agency (IEA) to create an infographic on methane emissions, including advanced visuals such as treemap, annotated scatterplot, and dodged column plot. Synthesized scholarly sources to write infographic content.
 
 **Bird Species Egg Volume Variation Analysis**
 
