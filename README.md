@@ -51,7 +51,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Repo**: [[link]](https://github.com/linusghanadan/dynamic-simulation-forest-growth)
 - **Description**: Synthesized ocean chemistry features to build and tune random forest model and stochastic gradient boosted trees model. Compared root mean square errors and analyzed feature importances in the best performing model.
 
-**Predictive Regression Models of Dissolved Inorganic Carbon**
+**Predictive Models of Dissolved Inorganic Carbon**
 
 - **Course**: Machine Learning
 - **Type**: Guided Project
