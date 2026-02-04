@@ -42,20 +42,6 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Repo**: [[link]](https://github.com/linusghanadan/bird-species-analysis.git)
 - **Description**: Created DuckDB database from CSVs and schema build script, converted to SQLite database, queried for distinct species names, created cursor, and stored species data. Iterated over data, querying the database to fetch egg volume data for each species, loading data into pandas DataFrame, and computing coefficients for each species.
 
-**Dynamic Simulation of Forest Growth**
-
-- **Course**: Modeling Environmental Systems
-- **Language**: R
-- **Repo**: [[link]](https://github.com/linusghanadan/dynamic-simulation-forest-growth)
-- **Description**: Synthesized ocean chemistry features to build and tune random forest model and stochastic gradient boosted trees model. Compared root mean square errors and analyzed feature importances in the best performing model.
-
-**Predictive Models of Dissolved Inorganic Carbon**
-
-- **Course**: Machine Learning
-- **Language**: Python
-- **Repo**: [[link]](https://github.com/linusghanadan/dic-ml-models)
-- **Description**: Synthesized ocean chemistry features to build and tune random forest model and stochastic gradient boosted trees model. Compared root mean square errors and analyzed feature importances in the best performing model.
-
 **Econometric Analysis of Cash-Transfer Program**
 
 - **Course**: Policy Evaluation
@@ -70,3 +56,17 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Language**: Python
 - **Repo**: [[link]](https://github.com/linusghanadan/phoenix_biodiversity)
 - **Description**: Fetched grid-cell data on Biodiversity Intactness Index (BII) scores from Microsoft data catalog. Clipped rasters of 2017 and 2020 BII scores with polygon shapefile of Phoenix subdivision. Created heatmap of 2020 BII scores in Phoenix, highlighting areas that had decreased below 0.75 threshold since 2017 study.
+
+**Dynamic Simulation of Forest Growth**
+
+- **Course**: Modeling Environmental Systems
+- **Language**: R
+- **Repo**: [[link]](https://github.com/linusghanadan/dynamic-simulation-forest-growth)
+- **Description**: Generated stochastic parameter sets for forest size model inputs (exponential growth rate before canopy closure, linear growth rate after canopy closure, carrying capacity, and canopy closure threshold) and used an ordinary differential equations solver to run 300-year continuous dynamic simulations of forests. Conducted global sensitivity analysis (ran 2,000 simulations and computed Sobol indices of input parameters) to look at impact of varying parameter values on maximum forest size.
+
+**Applying Machine Learning to Dissolved Inorganic Carbon Predictions**
+
+- **Course**: Machine Learning
+- **Language**: Python
+- **Repo**: [[link]](https://github.com/linusghanadan/dic-ml-models)
+- **Description**: Synthesized ocean chemistry features to build and tune random forest model and stochastic gradient boosted trees model. Compared root mean square errors and analyzed feature importances in the best performing model.
