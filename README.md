@@ -52,7 +52,6 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 **Geospatial Analysis of Biodiversity Loss**
 
 - **Course**: Geospatial Analysis & Remote Sensing
-- **Type**: Guided Project
 - **Language**: Python
 - **Repo**: [[link]](https://github.com/linusghanadan/phoenix_biodiversity)
 - **Description**: Fetched grid-cell data on Biodiversity Intactness Index (BII) scores from Microsoft data catalog. Clipped rasters of 2017 and 2020 BII scores with polygon shapefile of Phoenix subdivision. Created heatmap of 2020 BII scores in Phoenix, highlighting areas that had decreased below 0.75 threshold since 2017 study.
