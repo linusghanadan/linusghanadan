@@ -49,6 +49,13 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Repo**: [[link]](https://github.com/linusghanadan/cash-transfer-policy)
 - **Description**: Compared pre-treatment characteristics in the treatment and control groups. Estimated the Average Treatment Effect (ATE) of program enrollment on a household’s value of owned animals using FE, FD, and DiD estimators.
 
+**Geospatial Analysis of 2021 Houston Power Crisis**
+
+- **Course**: Geospatial Analysis & Remote Sensing
+- **Language**: R
+- **Repo**: [[link]](https://linusghanadan.github.io/blog/2024-1-20-post/)
+- **Description**: Analyzed satellite night-light data to detect and map residential blackouts during the 2021 Texas power crisis. Performed spatial joins with census tract income data to evaluate socioeconomic disparities in outage exposure.
+  
 **Geospatial Analysis of Biodiversity Loss**
 
 - **Course**: Geospatial Analysis & Remote Sensing
