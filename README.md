@@ -15,7 +15,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Client**: Darn Tough Vermont
 - **Language**: R
 - **Blog**: [[link]](https://linusghanadan.github.io/blog/2024-6-20-post/)
-- **Description**: Collaborated with three classmates and the company’s Sustainability Director to create an interactive dashboard web application for GHG data tracking and scenario analysis, replacing previous Excel-only workflow. Managed all data products on private code repositories, and created metadata and documentation for reproducibility.
+- **Description**: Collaborated with three classmates and the company’s Sustainability Director to create a web application for GHG data tracking and scenario analysis, replacing previous Excel-only workflow.
 
 ## Master's Course Projects
 
