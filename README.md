@@ -6,9 +6,9 @@ Education:
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if you would like to connect!
 
-<h1 align="center"> Highlighted Graduate Program Projects</h1>
+<h1 align="center">Project Portfolio</h1>
 
-## Capstone Project
+## Master's Capstone Project
 
 **Data Analysis Workflow Improvement for an Outdoor Apparel Company**
 
