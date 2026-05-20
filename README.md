@@ -24,7 +24,8 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/linus-ghanadan/) if yo
 - **Course**: Statistics
 - **Language**: Python
 - **Repo**: [[link]](https://github.com/linusghanadan/chesapeake-bay-nutrient-pollution-python)
-- **Description**: Investigated trends in nitrogen and phosphorus concentrations using 43,000 automated sensor readings from 2010 to 2019. Cleaned and processed time series data, and built STL decomposition models. Tuned season length based on autocorrelation of time lags. Visualized model parameters, ran regressions, and interpreted results.
+- **Description**: Conducted self-guided time series analysis of nitrogen and phosphorus trends using 43,000+ sensor readings
+(2010–2019), independently sourcing data, developing methodology, and delivering 10-minute presentation.
 
 **Database of Arctic Bird Observations**
 
@@ -61,7 +62,7 @@ power crisis, integrating census income data via spatial joins to evaluate socio
 - **Course**: Modeling Environmental Systems
 - **Language**: R
 - **Repo**: [[link]](https://github.com/linusghanadan/dynamic-simulation-forest-growth)
-- **Description**: Generated stochastic parameter sets for forest size model inputs (exponential growth rate before canopy closure, linear growth rate after canopy closure, carrying capacity, and canopy closure threshold) and used an ordinary differential equations solver to run 300-year continuous dynamic simulations of forests. Conducted global sensitivity analysis (ran 2,000 simulations and computed Sobol indices of input parameters) to look at impact of varying parameter values on maximum forest size.
+- **Description**: Generated stochastic parameter sets for forest size model inputs and used an ODE solver to run 2,000 300-year continuous dynamic simulations of forests. Conducted global sensitivity analysis of maximum forest size.
 
 **Regression Model of Dissolved Inorganic Carbon**
 
